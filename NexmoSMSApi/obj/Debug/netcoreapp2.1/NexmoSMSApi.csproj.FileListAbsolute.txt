@@ -1,0 +1,11 @@
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\bin\Debug\netcoreapp2.1\NexmoSMSApi.deps.json
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\bin\Debug\netcoreapp2.1\NexmoSMSApi.runtimeconfig.json
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\bin\Debug\netcoreapp2.1\NexmoSMSApi.runtimeconfig.dev.json
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\bin\Debug\netcoreapp2.1\NexmoSMSApi.dll
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\obj\Debug\netcoreapp2.1\NexmoSMSApi.csprojAssemblyReference.cache
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\obj\Debug\netcoreapp2.1\NexmoSMSApi.csproj.CoreCompileInputs.cache
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\obj\Debug\netcoreapp2.1\NexmoSMSApi.AssemblyInfoInputs.cache
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\obj\Debug\netcoreapp2.1\NexmoSMSApi.AssemblyInfo.cs
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\bin\Debug\netcoreapp2.1\NexmoSMSApi.pdb
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\obj\Debug\netcoreapp2.1\NexmoSMSApi.dll
+C:\Users\abdul.moeed\source\repos\NexmoSMSApi\NexmoSMSApi\obj\Debug\netcoreapp2.1\NexmoSMSApi.pdb
